@@ -29,4 +29,7 @@ ___
 ___
 5. Используя diagrams.net, создайте L3 диаграмму вашей домашней сети или любой другой сети, с которой вы работали.
 
+-	ответ
 
+![Scheme](https://github.com/davlyatov-ts/networks-3/blob/master/cv.png)
+__
