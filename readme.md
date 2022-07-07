@@ -19,6 +19,14 @@ ___
 
 -	Ответ
 
-![]()
+![TCP](https://github.com/davlyatov-ts/networks-3/blob/master/tcp1.png)<br>
 ___
-4. 
+4. Проверьте используемые UDP сокеты в Ubuntu, какие протоколы и приложения используют эти порты?<br>
+
+-	Ответ
+
+![UDP](https://github.com/davlyatov-ts/networks-3/blob/master/udp.png)
+___
+5. Используя diagrams.net, создайте L3 диаграмму вашей домашней сети или любой другой сети, с которой вы работали.
+
+
