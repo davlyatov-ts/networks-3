@@ -9,4 +9,8 @@ show bgp x.x.x.x/32
 ![show ip route](https://github.com/davlyatov-ts/networks-3/blob/master/bgp-internal.png)<br>
 [show ip bgp](https://github.com/davlyatov-ts/networks-3/blob/master/sho%20ip%20bgp)<br>
 ___
+2.Создайте dummy0 интерфейс в Ubuntu. Добавьте несколько статических маршрутов. Проверьте таблицу маршрутизации.<br>
+
+-	Ответ
+![]
 
